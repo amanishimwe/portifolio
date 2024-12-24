@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Deeplearning, and Machine Learning
+#### Technical Skills: Python, SQL, AWS, Deeplearning,Java Script and Machine Learning
 
 ## Education							       		
 - M.S., Embedded and Mobile Systems	| The Nelson Mandela African Institution of Science and Technology, Tanzania (_December 2021_)	 			        		
@@ -8,60 +8,63 @@
 
 ## Work Experience
 **Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2023 - Present_)**
-• Developed web scraping tools for price statistics, which improved price data collection by 90%.
-• Managed large datasets, and improved procedures resulting in 50% time saved in data preprocessing.
-• Developed and implemented Large Language models for Classifications of Occupations and Industry which improved data processing by 80%.
-• Developed a large language model System based on retrieval augmented generation (RAG) for disseminating statistical information
+- Developed web scraping tools for price statistics, which improved price data collection by 90%.
+- Managed large datasets, and improved procedures resulting in 50% time saved in data preprocessing.
+- Developed and implemented Large Language models for Classifications of Occupations and Industry which improved data processing by 80%.
+- Developed a large language model System based on retrieval augmented generation (RAG) for disseminating statistical information
 
 **Technical Lead @ Athari Recruitment, USA (_January 2023 - Present_)**
-• Lead a team of hybrid and remote developers, and data scientists to develop an AI based recruitment system for software developers and data scientists based on their open-source contributions. This has achieved a significant decrease in time-to-hire and increased candidate satisfaction through streamlined processes and efficient algorithms.
-• Develop, test, and deploy several artificial intelligence models and data streams for Athari Tech
-• Provide technical strategic direction to the Management of Athari Recruitment
+- Lead a team of hybrid and remote developers, and data scientists to develop an AI based recruitment system for software developers and data scientists based on their open-source contributions. This has achieved a significant decrease in time-to-hire and increased candidate satisfaction through streamlined processes and efficient algorithms.
+- Develop, test, and deploy several artificial intelligence models and data streams for Athari Tech
+-  Provide technical strategic direction to the Management of Athari Recruitment
 
 **Data AI Advisor @ Kampala Analytica, Uganda (_January 2021 - Present_)**
-• Spearheaded the inaugural Kampala tech-talk series, resulting in a 50% increase in attendance year-over-year, indicating growing interest and engagement in AI policy discussions in Uganda and beyond.
-• Garnered a 25% increase in international partnerships and collaborations following the Kampala tech-talk series, indicating enhanced visibility and recognition of Kampala Analytica as a key player in AI policy dialogues in Uganda.
-• Provide AI advisory services to the C.E.O of Kampala Analytica
+- Spearheaded the inaugural Kampala tech-talk series, resulting in a 50% increase in attendance year-over-year, indicating growing interest and engagement in AI policy discussions in Uganda and beyond.
+- Garnered a 25% increase in international partnerships and collaborations following the Kampala tech-talk series, indicating enhanced visibility and recognition of Kampala Analytica as a key player in AI policy dialogues in Uganda.
+- Provide AI advisory services to the C.E.O of Kampala Analytica
 
 **Software Developer @ Fortune 500 Klub, Uganda (_January 2021 - January 2022)**
-• Achieved a 60% increase in customer satisfaction scores for the Fortune 500 Klub software through the implementation of new features and enhancements based on collected requirements, indicating improved user experience and engagement.
-• Reduced bug reports by 15% through rigorous testing procedures on the mobile application,ensuring a smoother and more reliable user experience, thereby enhancing brand reputation and loyalty.
-• Introduced three innovative technologies into the mobile application following comprehensive research efforts, resulting in a 25% increase in app downloads within
+- Achieved a 60% increase in customer satisfaction scores for the Fortune 500 Klub software through the implementation of new features and enhancements based on collected requirements, indicating improved user experience and engagement.
+- Reduced bug reports by 15% through rigorous testing procedures on the mobile application,ensuring a smoother and more reliable user experience, thereby enhancing brand reputation and loyalty.
+- Introduced three innovative technologies into the mobile application following comprehensive research efforts, resulting in a 25% increase in app downloads within the first quarter of implementation, demonstrating market relevance and competitiveness.
+- Developed a hybrid platform for the Mobile Application improving the delivery time of new features by 40%.
+  
+**Data Editor @ Uganda Bureau of Statistics, Uganda (_July 2017 - Decemeber 2022_)**
+- Developed a database for consumer commodities, that facilitated the increase in processing speed by 35%
+- Analysed data from various sources to develop insights used to improve inflation.
+- Analysed large volumes of data to derive actionable insights.
+  
+**CENIT@EA Scholar @ The Inter-University Council for East Africa, Uganda (_September 2020 - May 2021_)**
+- Developed the Proof of Concept for the  Academic Programmes Information Management System for Universities in the East African Community using Django and Mysql.
+- Contributed to the design of the requirements for the IUCEA Mobile App.
+- Performed Angular and Node Javascript Code Review for the African Centers of Excellence II M&E Platform (Supported by World Bank).
+-  Performed Next and Nest Javascript Code Review for the Skills Match Platform for Center of Excellence for ICT in East Africa (CENIT@EA) (Supported by GIZ).
+-  Contributed to the design of the Implementation Strategy and Architecture for the Higher Education Information Management System in the EAC
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Selected Projects
+### Project Lead - Mobile Application Based on Machine Learning for East African Stock Market. (Technologies Used: Java for Android, PHP, Recurrent Neural Network and cPanel for Hosting)
+### Project Software Developer – Academic Programmes Information Management System for Inter-University Council for East Africa. (Technologies Used: Django, Bootstrap, and Github for CI/CD)
+### Project Administrator, Drug Dash - A web and mobile system to enable Drug Supply Chain Control officers to see and understand real-time data on stock levels of medicines in health centers of Uganda( Won 10,000 USD from UNFPA to implement the prototype)
+### Project Software Engineer- The Fortune 500 Klub Limited application: A financial technology platform for creating wealthy individuals within the Fortune 500 Klub investors club. (Technologies used: Laravel and React Native).
+### Covid SOPs adherence System – Was the 3rd Runners Up for the Africa IoT and Artificial Intelligence Competition and represented Uganda in Dubai
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Talks & Conferences Attended
+- I gave a talk to all staff Uganda Bureau of Statistics during a professional Seminar Organised by the Department of Professional Services on "Artificial Intelligence, Data Science and Big Data: A step in the right direction for UBOS" in November 2024.
+- I gave a talk on Statistical Challenges in the era of Big Data during the Students' Symposium organized by the Uganda Statistical Society and Uganda Bureau of Statistics in November, 2024.
+- I facilitated a Physical Tech Talk in Mbarara, Uganda organized by Kampala Analytica with Support from GIZ in November 2024.
+- Presented a paper on "on application of AI to bridge teacher to pupil ratio in Uganda"  at the Conference of International Association for Official Statistics -ISI (May, 2024), Mexico City, Mexico.
+- I was on a panel organized by the United Nations Global Pulse Lab(UNGP) at Data Science Africa Summer School and Workshop to discuss issues of Data Science for Good in June, 2024.
+- Represented the Uganda Bureau of Statistics to discuss the "Modernisation of Consumer Price Index" In Rome, Italy in 2023.
+- I served as a panelist at Kampala Analytica in April 2023, contributing to a pivotal policy dialogue titled "ARTIFICIAL INTELLIGENCE AND THE KNOWLEDGE SECTOR," held shortly after the release of ChatGPT.
+- I facilitated a session on "The Role of Artificial Intelligence in Data Governance" at the Arusha Women School of Internet Governance in 2018.
+- I participated as a panelist in the inaugural STI Conference organized by the Inter-University Council for East Africa in 2019.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### News!!!
+-Poster Presentation on applying Large Language Models in the Dissemination of Official Statistics at the World Statistical Congress in 2025.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Manishimwe, Alban & Alexander, Happyness & Hillary, Kaluuma & Dida, Mussa. (2021). Integrated Mobile Application Based on Machine Learning for East Africa Stock Market. Journal of Information Systems Engineering and Management. 6. em0143. 10.21601/jisem/11008. 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+- [Data Science Blog](https://t.co/yI9YfrEEzA)
