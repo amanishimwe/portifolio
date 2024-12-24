@@ -43,7 +43,7 @@
 
 ## Selected Projects
 -  Project Lead - Mobile Application Based on Machine Learning for East African Stock Market. (Technologies Used: Java for Android, PHP, Recurrent Neural Network and cPanel for Hosting)
-### Project Software Developer – Academic Programmes Information Management System for Inter-University Council for East Africa. (Technologies Used: Django, Bootstrap, and Github for CI/CD)
+-  Project Software Developer – Academic Programmes Information Management System for Inter-University Council for East Africa. (Technologies Used: Django, Bootstrap, and Github for CI/CD)
 - Project Administrator, Drug Dash - A web and mobile system to enable Drug Supply Chain Control officers to see and understand real-time data on stock levels of medicines in health centers of Uganda( Won 10,000 USD from UNFPA to implement the prototype)
 - Project Software Engineer- The Fortune 500 Klub Limited application: A financial technology platform for creating wealthy individuals within the Fortune 500 Klub investors club. (Technologies used: Laravel and React Native).
 - Covid SOPs adherence System – Was the 3rd Runners Up for the Africa IoT and Artificial Intelligence Competition and represented Uganda in Dubai
