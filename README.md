@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Deeplearning,Java Script and Machine Learning
+#### Technical Skills: Python, SQL, AWS, Deep Learning using Pytorch, Large Language Models, and Machine Learning
 
 ## Education							       		
 - M.S., Embedded and Mobile Systems	| The Nelson Mandela African Institution of Science and Technology, Tanzania (_December 2021_)	 			        		
@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-**COMMUNITY MEMBER @Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present)**
+**COMMUNITY MEMBER @ Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present)**
 - Selected to join the Cohere for Artificial Intelligence (AI) Open Science Research Community, focused on fostering collaboration and advancing AI research.
 - Participating in Community events, invited talks, and network opportunities to expand knowledge and connect with peers.
 - Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, USA among others.
