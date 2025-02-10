@@ -7,6 +7,13 @@
 - B.S., Computer Engineering | Mbarara University of Science and Technology (_January 2016_)
 
 ## Work Experience
+
+**COMMUNITY MEMBER @Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present) **
+- Selected to join the Cohere for Artificial Intelligence (AI) Open Science Research Community, focused on fostering collaboration and advancing AI research.
+- Participating in Community events, invited talks, and network opportunities to expand knowledge and connect with peers.
+- Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, USA among others.
+- Member of the Africa AI Working Group.
+
 **Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2023 - Present_)**
 - Developed web scraping tools for price statistics, which improved price data collection by 90%.
 - Managed large datasets, and improved procedures resulting in 50% time saved in data preprocessing.
