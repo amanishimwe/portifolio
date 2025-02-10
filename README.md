@@ -8,16 +8,16 @@
 
 ## Work Experience
 
-**COMMUNITY MEMBER @ Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present)**
+**Community Member @ Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present)**
 - Selected to join the Cohere for Artificial Intelligence (AI) Open Science Research Community, focused on fostering collaboration and advancing AI research.
 - Participating in Community events, invited talks, and network opportunities to expand knowledge and connect with peers.
-- Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, USA among others.
+- Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, and the USA among others.
 - Member of the Africa AI Working Group.
 
 **Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2023 - Present_)**
-- Developed web scraping tools for price statistics, which improved price data collection by 90%.
+- Developed web scraping tools for price statistics, which improved price data collection by 40%.
 - Managed large datasets, and improved procedures resulting in 50% time saved in data preprocessing.
-- Developed and implemented Large Language models for Classifications of Occupations and Industry which improved data processing by 80%.
+- Developed and implemented Large Language models for Classifications of Occupations and Industry which improved data processing by 890%.
 - Developed a large language model System based on retrieval augmented generation (RAG) for disseminating statistical information
 
 **Technical Lead @ Athari Recruitment, USA (_January 2023 - Present_)**
@@ -25,7 +25,7 @@
 - Develop, test, and deploy several artificial intelligence models and data streams for Athari Tech
 -  Provide technical strategic direction to the Management of Athari Recruitment
 
-**Data AI Advisor @ Kampala Analytica, Uganda (_January 2021 - Present_)**
+**Data AI Advisor @ Kampala Analytica, Uganda (_January 2023 - January 2025)**
 - Spearheaded the inaugural Kampala tech-talk series, resulting in a 50% increase in attendance year-over-year, indicating growing interest and engagement in AI policy discussions in Uganda and beyond.
 - Garnered a 25% increase in international partnerships and collaborations following the Kampala tech-talk series, indicating enhanced visibility and recognition of Kampala Analytica as a key player in AI policy dialogues in Uganda.
 - Provide AI advisory services to the C.E.O of Kampala Analytica
