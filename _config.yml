@@ -2,12 +2,13 @@
 # SITE SETTINGS
 # ======================
 title: Alban Manishimwe
-subtitle: "AI & Data Science Expert | LLMs | AI Safety | Statistical Systems"
+subtitle: "AI & Data Science Researcher | Large Language Models | Responsible AI | Statistical Systems"
 description: >
-  AI and Data Science expert with 8+ years of experience building
-  cutting-edge intelligent systems for public institutions and global
-  enterprises. Specializing in Large Language Models, AI Safety,
-  Retrieval-Augmented Generation, and Statistical Systems.
+  AI and Data Science researcher with over 8 years of experience in
+  machine learning, large language models, and statistical systems for
+  public sector and international development applications. 
+  Focused on responsible AI, retrieval-augmented generation, and 
+  data-driven decision-making for sustainable development and public policy.
 
 logo:        /assets/img/profile.png
 favicon:     /assets/img/favicon.ico
@@ -22,8 +23,11 @@ author:
   email:       alban.manishimwe@gmail.com
   location:    Kampala, Uganda
   bio:         >
-    Data Scientist at Uganda Bureau of Statistics. 
-    AI Safety Researcher. International consultant for the UN, GIZ & World Bank partners.
+    Data Scientist at Uganda Bureau of Statistics (UBOS) and AI researcher
+    working on responsible artificial intelligence, statistical systems,
+    and machine learning applications for development. 
+    Collaborates with international organizations including UN agencies,
+    GIZ, and World Bank partners on data-driven solutions and policy research.
   avatar:      /assets/img/profile.png
   links:
     - label:   "Email"
@@ -35,7 +39,7 @@ author:
     - label:   "GitHub"
       icon:    "fab fa-github"
       url:     "https://github.com/amanishimwe"
-    - label:   "Blog"
+    - label:   "Research Blog"
       icon:    "fas fa-rss"
       url:     "https://t.co/yI9YfrEEzA"
 
@@ -57,16 +61,20 @@ kramdown:
 nav_links:
   - title: About
     url:   /
+  - title: Research
+    url:   /research
   - title: Experience
     url:   /experience
-  - title: Projects
-    url:   /projects
   - title: Publications
     url:   /publications
+  - title: Projects
+    url:   /projects
   - title: Talks
     url:   /talks
   - title: Blog
     url:   /blog
+  - title: CV
+    url:   /cv
 
 # ======================
 # SEO & PERFORMANCE
