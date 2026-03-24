@@ -1,27 +1,90 @@
+# ======================
+# SITE SETTINGS
+# ======================
 title: Alban Manishimwe
-subtitle: AI & Data Science Expert | LLMs | AI Safety | Statistical Systems
+subtitle: "AI & Data Science Expert | LLMs | AI Safety | Statistical Systems"
 description: >
-  AI and Data Science expert with over 8 years of experience developing 
-  cutting-edge data systems for public and enterprise institutions. 
-  Specializing in Large Language Models, AI Safety, and Machine Learning.
-logo: /assets/img/profile.png
-url: "https://amanishimwe.github.io"
-baseurl: "/portfolio"
+  AI and Data Science expert with 8+ years of experience building
+  cutting-edge intelligent systems for public institutions and global
+  enterprises. Specializing in Large Language Models, AI Safety,
+  Retrieval-Augmented Generation, and Statistical Systems.
 
+logo:        /assets/img/profile.png
+favicon:     /assets/img/favicon.ico
+url:         "https://amanishimwe.github.io"
+baseurl:     "/portfolio"
+
+# ======================
+# AUTHOR
+# ======================
 author:
-  name: Alban Manishimwe
-  email: alban.manishimwe@gmail.com
-  location: Kampala, Uganda
-  linkedin: https://www.linkedin.com/in/alban-manishimwe-827623248/
-  github: amanishimwe
+  name:        Alban Manishimwe
+  email:       alban.manishimwe@gmail.com
+  location:    Kampala, Uganda
+  bio:         >
+    Data Scientist at Uganda Bureau of Statistics. 
+    AI Safety Researcher. International consultant for the UN, GIZ & World Bank partners.
+  avatar:      /assets/img/profile.png
+  links:
+    - label:   "Email"
+      icon:    "fas fa-envelope"
+      url:     "mailto:alban.manishimwe@gmail.com"
+    - label:   "LinkedIn"
+      icon:    "fab fa-linkedin"
+      url:     "https://www.linkedin.com/in/alban-manishimwe-827623248/"
+    - label:   "GitHub"
+      icon:    "fab fa-github"
+      url:     "https://github.com/amanishimwe"
+    - label:   "Blog"
+      icon:    "fas fa-rss"
+      url:     "https://t.co/yI9YfrEEzA"
 
+# ======================
+# THEME & APPEARANCE
+# ======================
+remote_theme:  pages-themes/midnight@v0.2.0
+highlighter:   rouge
+markdown:      kramdown
+
+kramdown:
+  input:        GFM
+  auto_ids:     true
+  syntax_highlighter: rouge
+
+# ======================
+# NAVIGATION
+# ======================
+nav_links:
+  - title: About
+    url:   /
+  - title: Experience
+    url:   /experience
+  - title: Projects
+    url:   /projects
+  - title: Publications
+    url:   /publications
+  - title: Talks
+    url:   /talks
+  - title: Blog
+    url:   /blog
+
+# ======================
+# SEO & PERFORMANCE
+# ======================
+lang:          en
+timezone:      Africa/Kampala
 show_downloads: false
-theme: jekyll-theme-midnight
 
-# SEO
-lang: en
-timezone: Africa/Kampala
+social:
+  name:  Alban Manishimwe
+  links:
+    - https://www.linkedin.com/in/alban-manishimwe-827623248/
+    - https://github.com/amanishimwe
 
+# ======================
+# PLUGINS
+# ======================
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
