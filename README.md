@@ -1,77 +1,108 @@
-# Data Scientist
+# Alban Manishimwe — AI & Data Science Expert
 
-#### Technical Skills: Python, SQL, AWS, Deep Learning using Pytorch, Large Language Models, and Machine Learning
+#### Technical Skills: Python, JavaScript, R, SQL, PyTorch, TensorFlow, FastAPI, Django, Apache Spark, Large Language Models, Machine Learning, NLP, AI Safety & Alignment, GIS, IoT, Remote Sensing
 
-## Education							       		
-- M.S., Embedded and Mobile Systems	| The Nelson Mandela African Institution of Science and Technology, Tanzania (_December 2021_)	 			        		
-- B.S., Computer Engineering | Mbarara University of Science and Technology (_January 2016_)
+## Professional Summary
+AI and Data Science expert dedicated to advancing responsible AI technologies. Skilled in developing and implementing cutting-edge data systems for both public and enterprise institutions.
+
+## Education
+- **AI Safety Collab** | European Network for AI Safety (_January 2025 – July 2025_)
+- **M.S., Embedded and Mobile Systems** (Major in Mobile Systems) | The Nelson Mandela African Institution of Science and Technology, Tanzania (_June 2019 – December 2021_)
+- **B.S., Computer Engineering** (Major in Software Engineering) | Mbarara University of Science and Technology (_August 2011 – May 2015_)
 
 ## Work Experience
 
-**Community Member @ Cohere for AI - Open Science , Toronto ,Canada(_February 2025 - Present)**
-- Selected to join the Cohere for Artificial Intelligence (AI) Open Science Research Community, focused on fostering collaboration and advancing AI research.
-- Participating in Community events, invited talks, and network opportunities to expand knowledge and connect with peers.
-- Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, and the USA among others.
+**Consultant AI-Tools @ Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Uganda (_August 2025 – October 2025_)**
+- Supported GIZ partners with the design, development, and implementation of AI tools.
+- Provided training to GIZ partners on the design, development, and implementation of AI solutions.
+- Conducted a baseline study to assess the AI capacity of GIZ partners in Southern and Central Uganda.
+
+**Consultant @ DEJ Technology GmbH, Rostock, Germany (_April 2025 – June 2025_)**
+- Designed, developed, and optimised existing AI software systems for DEJ clients mainly in the health sector.
+- Ingested data from different platforms for supervised fine-tuning.
+- Fine-tuned AI models using PyTorch.
+- Monitored the performance of different AI tools and models in production.
+
+**Consultant – Data-Enabled Web Evaluation @ United Nations Foundation, Washington D.C., USA (_May 2025 – September 2025_)**
+- Led the technical, strategic, and financial evaluation of the citizen generation data collection tool for Statistics Colombia.
+- Conducted cost-benefit evaluations for the citizen generation data collection tool.
+
+**Community Member @ Cohere for AI – Open Science, Toronto, Canada (_February 2025 – Present_)**
+- Selected to join the Cohere for AI Open Science Research Community, focused on fostering collaboration and advancing AI research.
+- Participating in community events, invited talks, and networking opportunities.
+- Contributing to AI Safety research across teams from Asia, Canada, the United Kingdom, and the USA.
 - Member of the Africa AI Working Group.
 
-**Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2023 - Present_)**
-- Developed web scraping tools for price statistics, which improved price data collection by 40%.
-- Managed large datasets, and improved procedures resulting in 50% time saved in data preprocessing.
-- Developed and implemented Large Language models for Classifications of Occupations and Industry which improved data processing by 890%.
-- Developed a large language model System based on retrieval augmented generation (RAG) for disseminating statistical information
+**Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2023 – Present_)**
+- Developed and ingested web scraping data for price statistics using Apache Spark, improving data collection by 40%.
+- Managed large datasets for large-scale censuses and surveys, reducing preprocessing time by 50%.
+- Developed and implemented Large Language Models for statistical classifications of Occupations and Industry, improving data processing by 890%.
+- Designed, developed, and implemented the UBOS chatbot using MCP server and Retrieval Augmented Generation (RAG) for disseminating statistical information.
+- Project lead for an $80,000 AI-funded project.
 
-**Technical Lead @ Athari Recruitment, USA (_January 2023 - Present_)**
-- Lead a team of hybrid and remote developers, and data scientists to develop an AI based recruitment system for software developers and data scientists based on their open-source contributions. This has achieved a significant decrease in time-to-hire and increased candidate satisfaction through streamlined processes and efficient algorithms.
-- Develop, test, and deploy several artificial intelligence models and data streams for Athari Tech
--  Provide technical strategic direction to the Management of Athari Recruitment
+**Consultant – Technical Lead @ Athari Recruitment, New York, USA (_January 2023 – December 2024_)**
+- Led a team of hybrid and remote developers and data scientists to develop an AI-based recruitment system using JavaScript and Python.
+- Ingested behavioural data from various platforms using Apache Spark and GitHub Actions.
+- Led the design, development, and implementation of scoring ML algorithms using Digital Ocean, Python, and PyTorch.
+- Led the development of an open-source learning platform to upskill developers and data scientists using NextJS and tRPC frameworks.
 
-**Data AI Advisor @ Kampala Analytica, Uganda (_January 2023 - January 2025)**
-- Spearheaded the inaugural Kampala tech-talk series, resulting in a 50% increase in attendance year-over-year, indicating growing interest and engagement in AI policy discussions in Uganda and beyond.
-- Garnered a 25% increase in international partnerships and collaborations following the Kampala tech-talk series, indicating enhanced visibility and recognition of Kampala Analytica as a key player in AI policy dialogues in Uganda.
-- Provide AI advisory services to the C.E.O of Kampala Analytica
+**AI and Data Advisor @ Kampala Analytica, Uganda (_January 2023 – March 2025_)**
+- Convened the Kampala Tech Talk series, resulting in a 50% year-over-year increase in attendance.
+- Garnered a 25% increase in international partnerships following the Kampala Tech Talk series.
+- Hackathon lead for the GIZ AI-tools funded project.
+- Provided AI advisory services to the CEO of Kampala Analytica.
 
-**Software Developer @ Fortune 500 Klub, Uganda (_January 2021 - January 2022)**
-- Achieved a 60% increase in customer satisfaction scores for the Fortune 500 Klub software through the implementation of new features and enhancements based on collected requirements, indicating improved user experience and engagement.
-- Reduced bug reports by 15% through rigorous testing procedures on the mobile application,ensuring a smoother and more reliable user experience, thereby enhancing brand reputation and loyalty.
-- Introduced three innovative technologies into the mobile application following comprehensive research efforts, resulting in a 25% increase in app downloads within the first quarter of implementation, demonstrating market relevance and competitiveness.
-- Developed a hybrid platform for the Mobile Application improving the delivery time of new features by 40%.
-  
-**Data Editor @ Uganda Bureau of Statistics, Uganda (_July 2017 - Decemeber 2022_)**
-- Developed a database for consumer commodities, that facilitated the increase in processing speed by 35%
-- Analysed data from various sources to develop insights used to improve inflation.
+**Data Editor & Data Scientist @ Uganda Bureau of Statistics, Uganda (_January 2017 – Present_)**
+- Developed a database for consumer commodities, increasing processing speed by 35%.
+- Analysed data from various sources to develop insights used to improve inflation measurement.
 - Analysed large volumes of data to derive actionable insights.
-  
-**CENIT@EA Scholar @ The Inter-University Council for East Africa, Uganda (_September 2020 - May 2021_)**
-- Developed the Proof of Concept for the  Academic Programmes Information Management System for Universities in the East African Community using Django and Mysql.
-- Contributed to the design of the requirements for the IUCEA Mobile App.
-- Performed Angular and Node Javascript Code Review for the African Centers of Excellence II M&E Platform (Supported by World Bank).
--  Performed Next and Nest Javascript Code Review for the Skills Match Platform for Center of Excellence for ICT in East Africa (CENIT@EA) (Supported by GIZ).
--  Contributed to the design of the Implementation Strategy and Architecture for the Higher Education Information Management System in the EAC
+
+**Lead Software Developer @ The Fortune 500 Klub Limited, Uganda (_January 2021 – January 2022_)**
+- Evolved the Fortune Mobile Application from native to hybrid architecture using React Native and PHP.
+- Designed, developed, and implemented an extensive microservice architecture for the application.
+- Achieved a 60% increase in customer satisfaction scores through new features and enhancements.
+- Reduced bug reports by 15% through rigorous testing procedures.
+- Introduced three innovative technologies resulting in a 25% increase in app downloads within the first quarter.
+
+**Intern @ The Inter-University Council for East Africa, Uganda (_September 2020 – May 2021_)**
+- Led the design and development of the Academic Programmes Information Management System using Django and MySQL.
+- Led the design of requirements for the IUCEA Mobile App.
+- Performed code review for the African Centers of Excellence II M&E Platform (World Bank) using JavaScript.
+- Performed code review for the Skills Match Platform for CENIT@EA (GIZ) using JavaScript.
+- Led the design of the Higher Education Information Management System Architecture for the EAC.
 
 ## Selected Projects
--  Project Lead - Mobile Application Based on Machine Learning for East African Stock Market. (Technologies Used: Java for Android, PHP, Recurrent Neural Network and cPanel for Hosting)
--  Project Software Developer – Academic Programmes Information Management System for Inter-University Council for East Africa. (Technologies Used: Django, Bootstrap, and Github for CI/CD)
-- Project Administrator, Drug Dash - A web and mobile system to enable Drug Supply Chain Control officers to see and understand real-time data on stock levels of medicines in health centers of Uganda( Won 10,000 USD from UNFPA to implement the prototype)
-- Project Software Engineer- The Fortune 500 Klub Limited application: A financial technology platform for creating wealthy individuals within the Fortune 500 Klub investors club. (Technologies used: Laravel and React Native).
-- Covid SOPs adherence System – Was the 3rd Runners Up for the Africa IoT and Artificial Intelligence Competition and represented Uganda in Dubai
+- **Project Lead** – Mobile Application Based on Machine Learning for East African Stock Market. _(Java for Android, PHP, Recurrent Neural Network, cPanel)_
+- **Project Software Developer** – Academic Programmes Information Management System for the Inter-University Council for East Africa. _(Django, Bootstrap, GitHub CI/CD)_
+- **Project Administrator** – Drug Dash: A web and mobile system for real-time drug stock monitoring in Uganda health centres. _(Won $10,000 USD from UNFPA to implement the prototype)_
+- **Project Software Engineer** – The Fortune 500 Klub Limited Application: A fintech platform for investors. _(Laravel, React Native)_
+- **Covid SOPs Adherence System** – 3rd Runners Up, Africa IoT and Artificial Intelligence Competition; represented Uganda in Dubai.
 
-## Talks & Conferences Attended
-- I gave a talk to all staff Uganda Bureau of Statistics during a professional Seminar Organised by the Department of Professional Services on "Artificial Intelligence, Data Science and Big Data: A step in the right direction for UBOS" in November 2024.
-- I gave a talk on Statistical Challenges in the era of Big Data during the Students' Symposium organized by the Uganda Statistical Society and Uganda Bureau of Statistics in November, 2024.
-- I facilitated a Physical Tech Talk in Mbarara, Uganda organized by Kampala Analytica with Support from GIZ in November 2024.
-- Presented a paper on "on application of AI to bridge teacher to pupil ratio in Uganda"  at the Conference of International Association for Official Statistics -ISI (May, 2024), Mexico City, Mexico.
-- I was on a panel organized by the United Nations Global Pulse Lab(UNGP) at Data Science Africa Summer School and Workshop to discuss issues of Data Science for Good in June, 2024.
-- Represented the Uganda Bureau of Statistics to discuss the "Modernisation of Consumer Price Index" In Rome, Italy in 2023.
-- I served as a panelist at Kampala Analytica in April 2023, contributing to a pivotal policy dialogue titled "ARTIFICIAL INTELLIGENCE AND THE KNOWLEDGE SECTOR," held shortly after the release of ChatGPT.
-- I facilitated a session on "The Role of Artificial Intelligence in Data Governance" at the Arusha Women School of Internet Governance in 2018.
-- I participated as a panelist in the inaugural STI Conference organized by the Inter-University Council for East Africa in 2019.
+## Talks & Conferences
+- **Poster Presentation** on applying Large Language Models in the Dissemination of Official Statistics — World Statistical Congress, 2025. 🆕
+- Talk on "Artificial Intelligence, Data Science and Big Data: A Step in the Right Direction for UBOS" — Uganda Bureau of Statistics Professional Seminar, November 2024.
+- Talk on "Statistical Challenges in the Era of Big Data" — Uganda Statistical Society & UBOS Students' Symposium, November 2024.
+- Facilitated a Physical Tech Talk in Mbarara, Uganda — Kampala Analytica / GIZ, November 2024.
+- Presented paper on "Application of AI to Bridge Teacher-to-Pupil Ratio in Uganda" — International Association for Official Statistics (ISI), Mexico City, May 2024.
+- Panelist on Data Science for Good — United Nations Global Pulse Lab, Data Science Africa Summer School, Nyeri, Kenya, June 2024.
+- Presented paper on Web Scraping Data for Consumer Price Index — UN Economic Commission for Europe Group of CPI Experts.
+- Represented Uganda Bureau of Statistics on "Modernisation of Consumer Price Index" — Rome, Italy, 2023.
+- Panelist on "Artificial Intelligence and the Knowledge Sector" — Kampala Analytica, April 2023.
+- Facilitator on "The Role of Artificial Intelligence in Data Governance" — Arusha Women School of Internet Governance, 2018.
+- Panelist — Inaugural STI Conference, Inter-University Council for East Africa, 2019.
 
-### News!!!
--Poster Presentation on applying Large Language Models in the Dissemination of Official Statistics at the World Statistical Congress in 2025.
+## Professional Memberships
+- Internet Society
+- Data Science Africa
+- Uganda Statistical Society
+- Association for Computing Machinery (ACM)
+- ICT Association of Uganda
 
+## Certifications
+IBM Data Science · IBM Data Engineering · IBM Artificial Intelligence V2 · IBM Watson V2 · IBM Machine Learning · Google Developer's Program for Africa · Design Factory Korea
 
 ## Publications
-1. Manishimwe, Alban & Alexander, Happyness & Hillary, Kaluuma & Dida, Mussa. (2021). Integrated Mobile Application Based on Machine Learning for East Africa Stock Market. Journal of Information Systems Engineering and Management. 6. em0143. 10.21601/jisem/11008. 
+1. Manishimwe, Alban & Alexander, Happyness & Hillary, Kaluuma & Dida, Mussa. (2021). Integrated Mobile Application Based on Machine Learning for East Africa Stock Market. *Journal of Information Systems Engineering and Management*, 6, em0143. [DOI: 10.21601/jisem/11008](https://doi.org/10.21601/jisem/11008)
 
-
-- [Data Science Blog](https://t.co/yI9YfrEEzA)
+---
+📧 alban.manishimwe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/alban-manishimwe-827623248/) | 📝 [Data Science Blog](https://t.co/yI9YfrEEzA)
