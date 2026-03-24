@@ -1,5 +1,27 @@
 title: Alban Manishimwe
-#logo: /assets/imag/profile.png
-#description: I am an AI Engineer and Data with over 7 years of experience.
-#show_downloads: true
+subtitle: AI & Data Science Expert | LLMs | AI Safety | Statistical Systems
+description: >
+  AI and Data Science expert with over 8 years of experience developing 
+  cutting-edge data systems for public and enterprise institutions. 
+  Specializing in Large Language Models, AI Safety, and Machine Learning.
+logo: /assets/img/profile.png
+url: "https://amanishimwe.github.io"
+baseurl: "/portfolio"
+
+author:
+  name: Alban Manishimwe
+  email: alban.manishimwe@gmail.com
+  location: Kampala, Uganda
+  linkedin: https://www.linkedin.com/in/alban-manishimwe-827623248/
+  github: amanishimwe
+
+show_downloads: false
 theme: jekyll-theme-midnight
+
+# SEO
+lang: en
+timezone: Africa/Kampala
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
